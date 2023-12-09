@@ -1,1 +1,1 @@
-Collection of helper function that are commonly used in programs, mainly in languages that I use, such as TypeScript/JavaScript or Rust, but if you want to contribute, don't feel limited to languages listed here
+Collection of zero dependencies, helper functions that are commonly used in programs, mainly in languages that I use, such as TypeScript/JavaScript or Rust, but if you want to contribute, don't feel limited to languages listed here
